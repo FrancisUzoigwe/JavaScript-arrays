@@ -1,0 +1,31 @@
+Array is a non-primitive method which is being identified with a squared bracket([]). 
+The array method can anchor all types of datatypes being the string, the boolean, the numbe etc.
+Higher arrays can be said to be arrays that has a function and also a parameter. 
+Array is a datatype that stores the value(position) before the comma in an index box, while the string method stores the characters.
+ The object method uses the .(dot) notation to get elements or methods The Index position starts from zero and the lenght property starts from one.
+Slice method removes from the array and it can be used to replace a value in the array. 
+Splice takes two parameters but it could also take up to three parameters in
+a sitiuation where a value is needed to be replaced. 
+The Concat is a JavaScript array method that joins two arrays together and it returns back an array or a string.
+Push method is a JavaScript Array method that adds an array to the end of an already decleared array and it returns the lenght
+of the newly mutated array.(N:B The Push method mutates the entire array, that means it changes it.)
+of the new, the opposite of pop is Push and it removes the last part of an Array. 
+Fill is another method which replaces an entire value with a new passed keyword or a letter, it could either be a character, value. 
+Shift returns the first value while the unshift returns the last value. Reverse flips a character in a way that the first 
+becomes the last. 
+Reverse methods doesn't work on String method, for it to work it needs to be converted to an array method. Flat converts multiple dimensional arrays
+into a one dimensional array. Join method converts to string method. 
+Sort method neglets the first value in a character, value and spits out the other characters.
+Fat arrow is represented by (=>) and it is usually used to call back. Dc is a name of a function
+The Map method ittirate through an array and it returns an array, and it's a must./Complicated needs more study./
+Filter works with comparism and also helps us removes 
+The Reduce method calculate the number of values or characters in an Array and returns the number.
+Map ittirates and returns an Array while for each gives a value.
+Global variables are variables that are out of the scope of the funtion.
+We use map method because we want the return to be an array, Map i
+
+
+
+
+
+
